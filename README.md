@@ -17,6 +17,6 @@ Welcome to the Event Management System, a full-stack web application built using
   
 Set up environment variables:
 Create a .env file inside the config folder.(backend folder)
-PORT=4000
-MONGO_URI=
-FRONTEND_URL=http://localhost:5173
+### PORT=4000
+### MONGO_URI=
+### FRONTEND_URL=http://localhost:5173
