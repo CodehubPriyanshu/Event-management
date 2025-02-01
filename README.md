@@ -14,22 +14,9 @@ Welcome to the Event Management System, a full-stack web application built using
 ![Screenshot 2025-02-01 183901](https://github.com/user-attachments/assets/504d45dd-27df-4348-bfac-e42f772d6761)
 ![Screenshot 2025-02-01 183949](https://github.com/user-attachments/assets/c3d8668c-6419-4b8e-88c4-503c47d56470)
 ![Screenshot 2025-02-01 184012](https://github.com/user-attachments/assets/d14c6e86-e257-46ee-99ac-85efea33320d)
-
-# 🔧 Installation & Setup
-Clone the repository:
-git clone https://github.com/your-username/event-management.git
-cd event-management
-Install dependencies for frontend & backend:
-cd client  
-npm install  
-cd ../server  
-npm install  
+  
 Set up environment variables:
-Create a .env file inside the config folder.
+Create a .env file inside the config folder.(backend folder)
 PORT=4000
 MONGO_URI=
 FRONTEND_URL=http://localhost:5173
-Add necessary variables (e.g., database URL, API keys).
-Run the project:
-Frontend: npm start (inside client folder).
-Backend: npm run dev (inside server folder).
